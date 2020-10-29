@@ -5,3 +5,4 @@ import Navbar from './Navbar';
 test('renders Navbar without crashing', () => {
   rtl.render(<Navbar />);
 });
+ 
